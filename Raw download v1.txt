@@ -1,0 +1,233 @@
+[
+  {
+    "name": "Wink - Video Enhancing",
+    "category": "Editing",
+    "version": "v1.8.5.0",
+    "size": "75 MB",
+    "rating": "4.8",
+    "updated": "a few days ago",
+    "description": "Tingkatkan kualitas video dengan mudah, perbaiki resolusi, dan tambahkan efek profesional hanya dalam beberapa sentuhan.",
+    "url": "https://move2link.co/5a7dc09",
+    "image": "https://iili.io/CcIfMqQ.jpg"
+  },
+  {
+    "name": "YouTube Music Premium",
+    "category": "Musik",
+    "version": "v6.45.54",
+    "size": "100 MB",
+    "rating": "4.9",
+    "updated": "8 kemarin",
+    "description": "Nikmati jutaan lagu dan video musik tanpa iklan, dengan fitur putar latar belakang dan unduhan offline.",
+    "url": "https://move2link.co/8eb0a83",
+    "image": "https://iili.io/CcIfWrB.png"
+  },
+  {
+    "name": "Claude AI Premium",
+    "category": "AI",
+    "version": "v2.0.1",
+    "size": "95 MB",
+    "rating": "4.7",
+    "updated": "a few days ago",
+    "description": "Asisten AI canggih untuk percakapan, analisis dokumen, dan pemecahan masalah kompleks dengan respons cepat.",
+    "url": "https://move2link.co/7de283a",
+    "image": "https://i.ibb.co.com/NdWJzyy5/Claude.jpg"
+  },
+  {
+    "name": "CapCut Pro Full Unlock",
+    "category": "Editing",
+    "version": "v11.2.0",
+    "size": "270 MB",
+    "rating": "4.9",
+    "updated": "a few days ago",
+    "description": "Aplikasi editing video profesional dengan semua fitur premium terbuka, efek, transisi, dan alat canggih tanpa batas.",
+    "url": "https://move2link.co/1ca9f6a",
+    "image": "https://i.ibb.co.com/9HP1HthJ/Screenshot-20260719-203646.jpg"
+  },
+  {
+    "name": "Animein",
+    "category": "Hiburan",
+    "version": "latest",
+    "size": "61MB",
+    "rating": "4.6",
+    "updated": "kemarin",
+    "description": "Nonton streaming anime favorit dengan subtitle Indonesia, koleksi lengkap dan update terbaru setiap hari.",
+    "url": "https://move2link.co/99ad297",
+    "image": "https://iili.io/CcIfIs4.png"
+  },
+  {
+    "name": "Movie Box",
+    "category": "Streaming",
+    "version": "latest",
+    "size": "43 mb",
+    "rating": "4.6",
+    "updated": " kemarin",
+    "description": "Streaming film terbaru dan serial TV populer dengan kualitas HD dan pilihan subtitle lengkap.",
+    "url": "https://move2link.co/992e769",
+    "image": "https://iili.io/CcIfaee.webp"
+  },
+  {
+    "name": "Anime X Nonton",
+    "category": "Streaming",
+    "version": "latest",
+    "size": "10 MB",
+    "rating": "4.7",
+    "updated": "kemarin",
+    "description": "Platform streaming anime ringan dengan koleksi jutaan episode, update cepat, dan pemutar video yang mulus.",
+    "url": "https://move2link.co/e8c77cf",
+    "image": "https://iili.io/CcIfnbs.png"
+  },
+  {
+    "name": "Game Booster 4X faster Pro",
+    "category": "Tools",
+    "version": "latest",
+    "size": "15 MB",
+    "rating": "4.7",
+    "updated": "kemarin",
+    "description": "Tingkatkan performa game hingga 4x lebih cepat, kurangi lag, dan optimalkan RAM untuk pengalaman bermain mulus.",
+    "url": "https://move2link.co/b4a5349",
+    "image": "https://iili.io/CcIfY79.png"
+  },
+  {
+    "name": "Look series (PP CINE)",
+    "category": "Streaming",
+    "version": "latest",
+    "size": "64 MB",
+    "rating": "4.3",
+    "updated": "kemarin",
+    "description": "Nonton drama series populer dari berbagai negara dengan subtitle dan kualitas gambar jernih.",
+    "url": "https://move2link.co/cad0db5",
+    "image": "https://iili.io/CcIfELx.png"
+  },
+  {
+    "name": "Compress Video",
+    "category": "Editing",
+    "version": "latest",
+    "size": "32 MB",
+    "rating": "4.2",
+    "updated": "kemarin",
+    "description": "Kompres ukuran video tanpa menurunkan kualitas secara signifikan, hemat ruang penyimpanan ponsel.",
+    "url": "https://move2link.co/edb6635",
+    "image": "https://iili.io/CcIfxzG.png"
+  },
+  {
+    "name": "X Recorder",
+    "category": "Editing",
+    "version": "latest",
+    "size": "30 MB",
+    "rating": "4.5",
+    "updated": "kemarin",
+    "description": "Rekam layar ponsel dengan kualitas tinggi, lengkap dengan fitur edit, suara internal, dan efek gambar.",
+    "url": "https://move2link.co/6b4b7aa",
+    "image": "https://iili.io/CcIfV1V.png"
+  },
+  {
+    "name": "Pure Status",
+    "category": "Tools",
+    "version": "2026.04",
+    "size": "?? MB",
+    "rating": "4.1",
+    "updated": "20 Mei 2026",
+    "description": "Buat status WhatsApp dan media sosial yang keren dengan template modern dan stiker eksklusif.",
+    "url": "https://move2link.co/037a2b1",
+    "image": "https://imgbs.com/uploads/kfkf-0d5e1387.jpg"
+  },
+  {
+    "name": "Drama box",
+    "category": "Streaming",
+    "version": "latest",
+    "size": "60 MB",
+    "rating": "4.5",
+    "updated": "6 Juli 2026",
+    "description": "Nonton drama Asia dan serial populer dengan subtitle Indonesia, streaming lancar tanpa buffering.",
+    "url": "https://move2link.co/4006fbf",
+    "image": "https://i.ibb.co.com/TBbHYQJ5/Screenshot-20260709-113100.jpg"
+  },
+  {
+    "name": "Spotify",
+    "category": "Musik",
+    "version": "latest",
+    "size": "120 MB",
+    "rating": "4.3",
+    "updated": "9 Juli 2026",
+    "description": "Streaming jutaan lagu tanpa iklan dan bisa diputar di latar belakang.",
+    "url": "https://move2link.co/b1eea72",
+    "image": "https://i.ibb.co.com/dwmLrcC2/Screenshot-20260710-183451.jpg"
+  },
+  {
+    "name": "SuperVPN",
+    "category": "VPN",
+    "version": "latest",
+    "size": "34 MB",
+    "rating": "4.6",
+    "updated": "terbaru",
+    "description": "VPN cepat dan gratis untuk akses internet aman, buka situs terblokir, dan lindungi privasi online.",
+    "url": "https://move2link.co/4de680e",
+    "image": "https://i.ibb.co.com/RppC6SBm/icon.png"
+  },
+  {
+    "name": "KomikID",
+    "category": "Hiburan",
+    "version": "latest",
+    "size": "24 MB",
+    "rating": "4.5",
+    "updated": "terbaru",
+    "description": "Baca komik dan manga favorit dengan koleksi lengkap, update terbaru, dan tampilan baca yang nyaman.",
+    "url": "https://move2link.co/KomicIDByyuta",
+    "image": "https://i.ibb.co.com/pv7NFPxn/1000464092.jpg"
+  },
+  {
+    "name": "Clone App",
+    "category": "Tools",
+    "version": "latest",
+    "size": "53 MB",
+    "rating": "4.4",
+    "updated": "terbaru",
+    "description": "Clone dan jalankan akun ganda untuk aplikasi sosial media, game, dan chatting dalam satu perangkat.",
+    "url": "https://move2link.co/5296cc2",
+    "image": "https://i.ibb.co.com/zVJLd2gX/Screenshot-20260711-122541.jpg"
+  },
+  {
+    "name": "Kine Master",
+    "category": "Editing",
+    "version": "latest",
+    "size": "226 MB",
+    "rating": "4.8",
+    "updated": "terbaru",
+    "description": "Editor video profesional dengan multi-layer, efek chroma key, kontrol kecepatan, dan alat pengeditan premium.",
+    "url": "https://move2link.co/e672aaa",
+    "image": "https://i.ibb.co.com/Ndc8sctj/1000464941.jpg"
+  },
+  {
+    "name": "UC Browser",
+    "category": "Tools",
+    "version": "latest",
+    "size": "95MB",
+    "rating": "4.4",
+    "updated": "kemarin",
+    "description": "Browser cepat dan ringan dengan mode hemat data, pengelola unduhan, dan fitur privasi lengkap.",
+    "url": "https://move2link.co/4746e3d",
+    "image": "https://i.ibb.co.com/Nd0fQkw4/uc-browser-logo-uc-browser-web-browser-developed-ucweb-uc-browser-app-kharkiv-ukraine-october-uc-bro.jpg"
+  },
+  {
+    "name": "TeraBox",
+    "category": "Tools",
+    "version": "latest",
+    "size": "109MB",
+    "rating": "4.4",
+    "updated": "kemarin",
+    "description": "Penyimpanan cloud gratis hingga 1TB, amankan file, foto, dan video dengan akses dari mana saja.",
+    "url": "https://move2link.co/b29d640",
+    "image": "https://i.ibb.co.com/ZzRrqpZD/terabox-51112-logo-1747919191-qcceb.jpg"
+  },
+  {
+    "name": "Koloro",
+    "category": "Editing",
+    "version": "latest",
+    "size": "64 MB",
+    "rating": "4.9",
+    "updated": "kemarin",
+    "description": "pelengkap Buat Hd in gambar, Saran kombo sama apk penghd seperti wink/utool/winkit Dll",
+    "url": "https://move2link.co/KolorobyYuta",
+    "image": "https://i.ibb.co.com/SXNmjCpV/Screenshot-20260724-210537.jpg"
+  }
+]
