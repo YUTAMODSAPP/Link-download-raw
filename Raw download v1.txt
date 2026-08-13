@@ -230,4 +230,15 @@
     "url": "https://move2link.co/KolorobyYuta",
     "image": "https://i.ibb.co.com/SXNmjCpV/Screenshot-20260724-210537.jpg"
   }
+  {
+    "name": "Nekopoi",
+    "category": "18+",
+    "version": "latest",
+    "size": "34 MB",
+    "rating": "5.0",
+    "updated": "kemarin",
+    "description": "App ini mengandung fotografi, jadi silahkan untuk berfikir lagi untuk mendownload nya. terimakasih",
+    "url": "https://move2link.co/KolorobyYuta",
+    "image": "https://i.ibb.co.com/SXNmjCpV/Screenshot-20260724-210537.jpg"
+  }
 ]
