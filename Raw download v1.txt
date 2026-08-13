@@ -229,7 +229,7 @@
     "description": "pelengkap Buat Hd in gambar, Saran kombo sama apk penghd seperti wink/utool/winkit Dll",
     "url": "https://move2link.co/KolorobyYuta",
     "image": "https://i.ibb.co.com/SXNmjCpV/Screenshot-20260724-210537.jpg"
-  }
+  },
   {
     "name": "Nekopoi",
     "category": "18+",
