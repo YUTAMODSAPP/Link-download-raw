@@ -1,6 +1,6 @@
 [
   {
-    "name": "Wink - Video Enhancing",
+    "name": "Wink - Video Enhancing Premium/no iklan",
     "category": "Editing",
     "version": "v1.8.5.0",
     "size": "75 MB",
@@ -44,7 +44,7 @@
     "image": "https://i.ibb.co.com/9HP1HthJ/Screenshot-20260719-203646.jpg"
   },
   {
-    "name": "Animein",
+    "name": "Animein Pro",
     "category": "Hiburan",
     "version": "latest",
     "size": "61MB",
@@ -55,7 +55,7 @@
     "image": "https://iili.io/CcIfIs4.png"
   },
   {
-    "name": "Movie Box",
+    "name": "Movie Box Premium",
     "category": "Streaming",
     "version": "4.0.01.0807.03",
     "size": "43 mb",
@@ -66,7 +66,7 @@
     "image": "https://iili.io/CcIfaee.webp"
   },
   {
-    "name": "Anime X Nonton",
+    "name": "Anime X Nonton No ads",
     "category": "Streaming",
     "version": "latest",
     "size": "10 MB",
@@ -88,7 +88,7 @@
     "image": "https://iili.io/CcIfY79.png"
   },
   {
-    "name": "Look series (PP CINE)",
+    "name": "Look series (PP CINE) No Ads",
     "category": "Streaming",
     "version": "latest",
     "size": "64 MB",
@@ -110,7 +110,7 @@
     "image": "https://iili.io/CcIfxzG.png"
   },
   {
-    "name": "X Recorder",
+    "name": "X Recorder Pro",
     "category": "Editing",
     "version": "latest",
     "size": "30 MB",
@@ -121,7 +121,7 @@
     "image": "https://iili.io/CcIfV1V.png"
   },
   {
-    "name": "Pure Status",
+    "name": "Pure Status Premium",
     "category": "Tools",
     "version": "2026.04",
     "size": "?? MB",
@@ -132,7 +132,7 @@
     "image": "https://imgbs.com/uploads/kfkf-0d5e1387.jpg"
   },
   {
-    "name": "Drama box",
+    "name": "Drama box Premium",
     "category": "Streaming",
     "version": "latest",
     "size": "60 MB",
@@ -143,7 +143,7 @@
     "image": "https://i.ibb.co.com/TBbHYQJ5/Screenshot-20260709-113100.jpg"
   },
   {
-    "name": "Spotify",
+    "name": "Spotify Premium",
     "category": "Musik",
     "version": "latest",
     "size": "120 MB",
@@ -154,7 +154,7 @@
     "image": "https://i.ibb.co.com/dwmLrcC2/Screenshot-20260710-183451.jpg"
   },
   {
-    "name": "SuperVPN",
+    "name": "SuperVPN Pro",
     "category": "VPN",
     "version": "latest",
     "size": "34 MB",
@@ -165,7 +165,7 @@
     "image": "https://i.ibb.co.com/RppC6SBm/icon.png"
   },
   {
-    "name": "KomikID",
+    "name": "KomikID Pro",
     "category": "Hiburan",
     "version": "latest",
     "size": "24 MB",
@@ -176,7 +176,7 @@
     "image": "https://i.ibb.co.com/pv7NFPxn/1000464092.jpg"
   },
   {
-    "name": "Clone App",
+    "name": "Clone App Pro",
     "category": "Tools",
     "version": "latest",
     "size": "53 MB",
@@ -187,7 +187,7 @@
     "image": "https://i.ibb.co.com/zVJLd2gX/Screenshot-20260711-122541.jpg"
   },
   {
-    "name": "Kine Master",
+    "name": "Kine Master Premium",
     "category": "Editing",
     "version": "latest",
     "size": "226 MB",
@@ -198,7 +198,7 @@
     "image": "https://i.ibb.co.com/Ndc8sctj/1000464941.jpg"
   },
   {
-    "name": "UC Browser",
+    "name": "UC Browser Pro/no ads",
     "category": "Tools",
     "version": "latest",
     "size": "95MB",
@@ -209,7 +209,7 @@
     "image": "https://i.ibb.co.com/Nd0fQkw4/uc-browser-logo-uc-browser-web-browser-developed-ucweb-uc-browser-app-kharkiv-ukraine-october-uc-bro.jpg"
   },
   {
-    "name": "TeraBox",
+    "name": "TeraBox Premium",
     "category": "Tools",
     "version": "latest",
     "size": "109MB",
@@ -220,7 +220,7 @@
     "image": "https://i.ibb.co.com/ZzRrqpZD/terabox-51112-logo-1747919191-qcceb.jpg"
   },
   {
-    "name": "Koloro",
+    "name": "Koloro Premium",
     "category": "Editing",
     "version": "latest",
     "size": "64 MB",
