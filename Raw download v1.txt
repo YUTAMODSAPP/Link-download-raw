@@ -60,7 +60,7 @@
     "version": "latest",
     "size": "43 mb",
     "rating": "4.6",
-    "updated": " kemarin",
+    "updated": "Baru saja",
     "description": "Streaming film terbaru dan serial TV populer dengan kualitas HD dan pilihan subtitle lengkap.",
     "url": "https://move2link.co/MovieBoxByyuta",
     "image": "https://iili.io/CcIfaee.webp"
