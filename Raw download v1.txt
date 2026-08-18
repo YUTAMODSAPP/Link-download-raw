@@ -183,7 +183,7 @@
     "rating": "4.4",
     "updated": "terbaru",
     "description": "Clone dan jalankan akun ganda untuk aplikasi sosial media, game, dan chatting dalam satu perangkat.",
-    "url": "https://move2link.co/5296cc2",
+    "url": "https://move2link.co/CloneAppbykhan",
     "image": "https://i.ibb.co.com/zVJLd2gX/Screenshot-20260711-122541.jpg"
   },
   {
@@ -240,6 +240,28 @@
     "description": "App ini mengandung fornografi, jadi silahkan untuk berfikir lagi untuk mendownload nya. terimakasih",
     "url": "https://whatsapp.com/channel/0029Vb8DC6pE50Ul1WlNdz3P",
     "image": "https://i.ibb.co.com/SXNmjCpV/Screenshot-20260724-210537.jpg"
-  }
+  },
+  {
+    "name": "AI VIDEO Enhanner-Utoll",
+    "category": "Editing",
+    "version": "latest",
+    "size": "59 MB",
+    "rating": "4.4",
+    "updated": "kemarin",
+    "description": "Tingkatkan kualitas video dengan mudah, perbaiki resolusi, dan tambahkan efek profesional hanya dalam beberapa sentuhan.",
+    "url": "https://move2link.co/b04326f",
+    "image": "https://i.ibb.co.com/21gf4kV9/Screenshot-20260818-133254.jpg"
+  },
+    {
+  "name": "Duolingo Premium",
+  "category": "Belajar",
+  "version": "latest",
+  "size": "59 MB",
+  "rating": "4.4",
+  "updated": "kemarin",
+  "description": "Belajar bahasa dengan lebih menyenangkan melalui latihan interaktif, materi yang beragam, dan pengalaman belajar yang lebih nyaman dengan fitur Premium.",
+  "url": "https://move2link.co/b04326f",
+  "image": "https://i.ibb.co.com/zzT2zJ6/Screenshot-20260730-213931.jpg"
+}
 ]
 
