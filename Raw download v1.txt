@@ -62,7 +62,7 @@
     "rating": "4.6",
     "updated": " kemarin",
     "description": "Streaming film terbaru dan serial TV populer dengan kualitas HD dan pilihan subtitle lengkap.",
-    "url": "https://move2link.co/992e769",
+    "url": "https://move2link.co/MovieBoxByyuta",
     "image": "https://iili.io/CcIfaee.webp"
   },
   {
