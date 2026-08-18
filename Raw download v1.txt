@@ -57,7 +57,7 @@
   {
     "name": "Movie Box",
     "category": "Streaming",
-    "version": "latest",
+    "version": "4.0.01.0807.03",
     "size": "43 mb",
     "rating": "4.6",
     "updated": "Baru saja",
