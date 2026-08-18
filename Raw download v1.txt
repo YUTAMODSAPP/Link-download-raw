@@ -260,8 +260,7 @@
   "rating": "4.4",
   "updated": "kemarin",
   "description": "Belajar bahasa dengan lebih menyenangkan melalui latihan interaktif, materi yang beragam, dan pengalaman belajar yang lebih nyaman dengan fitur Premium.",
-  "url": "https://move2link.co/b04326f",
+  "url": "https://move2link.co/DuolingoBykhanz",
   "image": "https://i.ibb.co.com/zzT2zJ6/Screenshot-20260730-213931.jpg"
 }
 ]
-
