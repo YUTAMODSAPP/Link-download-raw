@@ -73,7 +73,7 @@
     "rating": "4.7",
     "updated": "kemarin",
     "description": "Platform streaming anime ringan dengan koleksi jutaan episode, update cepat, dan pemutar video yang mulus.",
-    "url": "https://move2link.co/e8c77cf",
+    "url": "https://move2link.co/f4ee3ef",
     "image": "https://iili.io/CcIfnbs.png"
   },
   {
