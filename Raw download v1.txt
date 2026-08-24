@@ -148,7 +148,7 @@
     "version": "latest",
     "size": "120 MB",
     "rating": "4.3",
-    "updated": "9 Juli 2026",
+    "updated": "baru saja!",
     "description": "Streaming jutaan lagu tanpa iklan dan bisa diputar di latar belakang.",
     "url": "https://move2link.co/a404d74",
     "image": "https://i.ibb.co.com/dwmLrcC2/Screenshot-20260710-183451.jpg"
