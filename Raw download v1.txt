@@ -104,9 +104,9 @@
     "version": "latest",
     "size": "32 MB",
     "rating": "4.2",
-    "updated": "kemarin",
+    "updated": "baru saja",
     "description": "Kompres ukuran video tanpa menurunkan kualitas secara signifikan, hemat ruang penyimpanan ponsel.",
-    "url": "https://move2link.co/edb6635",
+    "url": "https://move2link.co/daaa8d2",
     "image": "https://iili.io/CcIfxzG.png"
   },
   {
