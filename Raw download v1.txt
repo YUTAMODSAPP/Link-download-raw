@@ -35,10 +35,10 @@
   {
     "name": "CapCut Pro Full Unlock",
     "category": "Editing",
-    "version": "v11.2.0",
+    "version": "terbaru",
     "size": "270 MB",
     "rating": "4.9",
-    "updated": "a few days ago",
+    "updated": "baru saja",
     "description": "Aplikasi editing video profesional dengan semua fitur premium terbuka, efek, transisi, dan alat canggih tanpa batas.",
     "url": "https://move2link.co/CapcutYutaApp",
     "image": "https://i.ibb.co.com/9HP1HthJ/Screenshot-20260719-203646.jpg"
