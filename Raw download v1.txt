@@ -40,7 +40,7 @@
     "rating": "4.9",
     "updated": "a few days ago",
     "description": "Aplikasi editing video profesional dengan semua fitur premium terbuka, efek, transisi, dan alat canggih tanpa batas.",
-    "url": "https://move2link.co/1ca9f6a",
+    "url": "https://move2link.co/CapcutYutaApp",
     "image": "https://i.ibb.co.com/9HP1HthJ/Screenshot-20260719-203646.jpg"
   },
   {
