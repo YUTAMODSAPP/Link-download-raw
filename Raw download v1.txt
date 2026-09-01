@@ -172,7 +172,7 @@
     "rating": "4.5",
     "updated": "terbaru",
     "description": "Baca komik dan manga favorit dengan koleksi lengkap, update terbaru, dan tampilan baca yang nyaman.",
-    "url": "https://move2link.co/KomicIDByyuta",
+    "url": "https://move2link.co/KomicIDByKH4N",
     "image": "https://i.ibb.co.com/pv7NFPxn/1000464092.jpg"
   },
   {
