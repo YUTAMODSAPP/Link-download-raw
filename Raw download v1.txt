@@ -231,12 +231,12 @@
     "image": "https://i.ibb.co.com/SXNmjCpV/Screenshot-20260724-210537.jpg"
   },
   {
-    "name": "Nekopoi [coming soon]",
-    "category": "18+",
+    "name": "Bit Tv",
+    "category": "Hiburan",
     "version": "latest",
-    "size": "34 MB",
-    "rating": "5.0",
-    "updated": "kemarin",
+    "size": "15 MB",
+    "rating": "4,6",
+    "updated": "baru saja",
     "description": "Buat nonton siaran tv secara langsung, dan memiliki lebih 100 siran, terlengkap. download sekarang",
     "url": "https://move2link.co/f3b2e3c",
     "image": "https://i.ibb.co.com/9Hx6Yy4y/IMG-20260904-WA0013.jpg"
