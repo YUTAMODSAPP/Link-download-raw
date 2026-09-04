@@ -237,9 +237,9 @@
     "size": "34 MB",
     "rating": "5.0",
     "updated": "kemarin",
-    "description": "App ini mengandung fornografi, jadi silahkan untuk berfikir lagi untuk mendownload nya. terimakasih",
-    "url": "https://whatsapp.com/channel/0029Vb8DC6pE50Ul1WlNdz3P",
-    "image": "https://i.ibb.co.com/SXNmjCpV/Screenshot-20260724-210537.jpg"
+    "description": "Buat nonton siaran tv secara langsung, dan memiliki lebih 100 siran, terlengkap. download sekarang",
+    "url": "https://move2link.co/f3b2e3c",
+    "image": "https://i.ibb.co.com/9Hx6Yy4y/IMG-20260904-WA0013.jpg"
   },
   {
     "name": "AI VIDEO Enhanner-Utoll",
