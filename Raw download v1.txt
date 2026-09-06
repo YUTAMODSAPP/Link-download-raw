@@ -57,12 +57,12 @@
   {
     "name": "Movie Box Premium",
     "category": "Streaming",
-    "version": "4.0.01.0807.03",
-    "size": "43 mb",
+    "version": "4.0.02.0831.02",
+    "size": "71 mb",
     "rating": "4.6",
     "updated": "Baru saja!",
     "description": "Streaming film terbaru dan serial TV populer dengan kualitas HD dan pilihan subtitle lengkap.",
-    "url": "https://move2link.co/MovieBoxByyutta",
+    "url": "https://move2link.co/Bykhanmodz",
     "image": "https://iili.io/CcIfaee.webp"
   },
   {
