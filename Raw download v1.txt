@@ -117,7 +117,7 @@
     "rating": "4.5",
     "updated": "kemarin",
     "description": "Rekam layar ponsel dengan kualitas tinggi, lengkap dengan fitur edit, suara internal, dan efek gambar.",
-    "url": "https://move2link.co/6b4b7aa",
+    "url": "https://move2link.co/e6499ac",
     "image": "https://iili.io/CcIfV1V.png"
   },
   {
