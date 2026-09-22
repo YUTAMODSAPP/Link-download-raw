@@ -11,6 +11,17 @@
     "image": "https://iili.io/CcIfMqQ.jpg"
   },
   {
+    "name": "Winkit",
+    "category": "Editing",
+    "version": "terbaru",
+    "size": "76 MB",
+    "rating": "4.7",
+    "updated": "kemarin",
+    "description": "Buat foto/video kalian menjadi HD-mengunakan App ini, cobain sekarang!",
+    "url": "https://move2link.co/d6044bb",
+    "image": "https://ibb.co.com/Cp5Jbd24"
+  },
+  {
     "name": "YouTube Music Premium",
     "category": "Musik",
     "version": "v6.45.54",
