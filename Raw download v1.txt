@@ -282,7 +282,7 @@
   "rating": "4.8",
   "updated": "baru",
   "description": "ayo mulai belajar coding 😹.",
-  "url": "https://move2link.co/2d1dcda",
+  "url": "https://move2link.co/aefa315",
   "image": "https://ibb.co.com/XxYxDymn"
 }
 ]
