@@ -273,5 +273,18 @@
   "description": "Belajar bahasa dengan lebih menyenangkan melalui latihan interaktif, materi yang beragam, dan pengalaman belajar yang lebih nyaman dengan fitur Premium.",
   "url": "https://move2link.co/DuolingoBykhanz",
   "image": "https://i.ibb.co.com/zzT2zJ6/Screenshot-20260730-213931.jpg"
+},
+{
+  "name": "trebEdit",
+  "category": "Tools",
+  "version": "3.6.7",
+  "size": "13 MB",
+  "rating": "4.8",
+  "updated": "baru",
+  "description": "ayo mulai belajar coding 😹.",
+  "url": "https://move2link.co/2d1dcda",
+  "image": "https://ibb.co.com/XxYxDymn"
 }
 ]
+
+
