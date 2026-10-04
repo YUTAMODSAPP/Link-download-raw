@@ -79,12 +79,12 @@
   {
     "name": "Anime X Nonton No ads",
     "category": "Streaming",
-    "version": "latest",
+    "version": "26.10.1",
     "size": "10 MB",
     "rating": "4.7",
     "updated": "baru saja!",
     "description": "Platform streaming anime ringan dengan koleksi jutaan episode, update cepat, dan pemutar video yang mulus.",
-    "url": "https://move2link.co/8c27255",
+    "url": "https://move2link.co/933c591",
     "image": "https://iili.io/CcIfnbs.png"
   },
   {
