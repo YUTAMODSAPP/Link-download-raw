@@ -263,28 +263,37 @@
     "url": "https://move2link.co/b04326f",
     "image": "https://i.ibb.co.com/21gf4kV9/Screenshot-20260818-133254.jpg"
   },
-    {
-  "name": "Duolingo Premium",
-  "category": "Belajar",
-  "version": "latest",
-  "size": "59 MB",
-  "rating": "4.4",
-  "updated": "kemarin",
-  "description": "Belajar bahasa dengan lebih menyenangkan melalui latihan interaktif, materi yang beragam, dan pengalaman belajar yang lebih nyaman dengan fitur Premium.",
-  "url": "https://move2link.co/DuolingoBykhanz",
-  "image": "https://i.ibb.co.com/zzT2zJ6/Screenshot-20260730-213931.jpg"
-},
-{
-  "name": "trebEdit",
-  "category": "Tools",
-  "version": "3.6.7",
-  "size": "13 MB",
-  "rating": "4.8",
-  "updated": "baru",
-  "description": "ayo mulai belajar coding 😹.",
-  "url": "https://move2link.co/aefa315",
-  "image": "https://ibb.co.com/XxYxDymn"
-}
+  {
+    "name": "Duolingo Premium",
+    "category": "Belajar",
+    "version": "latest",
+    "size": "59 MB",
+    "rating": "4.4",
+    "updated": "kemarin",
+    "description": "Belajar bahasa dengan lebih menyenangkan melalui latihan interaktif, materi yang beragam, dan pengalaman belajar yang lebih nyaman dengan fitur Premium.",
+    "url": "https://move2link.co/DuolingoBykhanz",
+    "image": "https://i.ibb.co.com/zzT2zJ6/Screenshot-20260730-213931.jpg"
+  },
+  {
+    "name": "trebEdit",
+    "category": "Tools",
+    "version": "3.6.7",
+    "size": "13 MB",
+    "rating": "4.8",
+    "updated": "baru",
+    "description": "ayo mulai belajar coding 😹.",
+    "url": "https://move2link.co/aefa315",
+    "image": "https://ibb.co.com/XxYxDymn"
+  },
+  {
+    "name": "Ada Wong My BIni",
+    "category": "ISTRI TERCANTIK",
+    "version": "1",
+    "size": "6TB",
+    "rating": "5",
+    "updated": "MAKIN CANTIK",
+    "description": "TESTING KAWAN",
+    "url": "https://yutamodsid.web.id/all-apps/",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ52qP8s8_95d9da7VTu4SqSpi0D806hYcPS7ZNNtVIIw&s=10"
+  }
 ]
-
-
